@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: white;
+    background-color: black;
+    height:50px;
+}
+.containt{
+    margin-left: 500px;
+}
+.containt li{
+    list-style: none;
+    display: flex;
+}
+
+.name{
+    width: 120px;
+    border:2px solid grey ;
+    border-radius: 5px;
+    background-color: aquamarine;
+    font-size: larger;
+    font-weight: 700;
+    text-align: center;
+    
+}
+
+.time{
+    margin-left: 40px;
+    width: 120px;
+    border:2px solid grey ;
+    border-radius: 5px;
+    background-color: rgb(162, 249, 220);
+    font-size: larger;
+    font-weight: 700;
+    text-align: center;
+}
+.delete{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.form{
+    margin-left: 500px;
+}
